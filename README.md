@@ -1,4 +1,4 @@
-# Algorithm-Part_I
+# Algorithm-Part-I
 An awesome algorithm course on Coursera
 
 http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
